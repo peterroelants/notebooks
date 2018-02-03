@@ -1,0 +1,15 @@
+*.ipynb_checkpoints/
+*.idea/
+*.pyc
+*.bz2
+*.mm
+*.csv
+*.txt
+*.index
+*.pb
+*.gz
+*.tar
+*.tar.gz
+*.jpeg
+*.jpg
+*.png
