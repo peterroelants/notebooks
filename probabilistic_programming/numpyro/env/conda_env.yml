@@ -1,0 +1,24 @@
+name: numpyro
+channels:
+  - conda-forge
+dependencies:
+  - bokeh
+  - datashader
+  - holoviews
+  - jupyter_bokeh
+  - jupyterlab
+  - matplotlib
+  - nodejs
+  - numpy
+  - pip
+  - python>=3.9
+  - pyviz_comms
+  - seaborn
+  - scipy
+  - tqdm
+  - xarray
+  - pip:
+    - arviz
+    - numpyro
+    - watermark
+    - jax
