@@ -1,0 +1,18 @@
+ipython
+ipykernel
+# Plotting
+matplotlib
+seaborn
+tqdm
+ipywidgets
+# Numpy
+numpy
+scipy
+scikit-learn
+# PyTorch
+torch>=2.4
+torchaudio
+torchvision
+# CUDA Dependencies
+nvidia-cuda-runtime-cu12
+nvidia-cudnn-cu12

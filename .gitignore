@@ -4,7 +4,6 @@
 *.bz2
 *.mm
 *.csv
-*.txt
 *.index
 *.pb
 *.gz

@@ -1,0 +1,13 @@
+ipykernel
+numpy<2
+scipy
+# JAX
+jax[cuda12]
+# CUDA Dependencies
+# nvidia-cuda-runtime-cu12==12.1.*
+# nvidia-cudnn-cu12
+# Plotting
+matplotlib
+seaborn
+tqdm
+ipywidgets
